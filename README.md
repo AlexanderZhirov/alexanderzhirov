@@ -2,7 +2,7 @@
 
 I'm Alexander Zhirov from Russia! I am engaged in development in C/C ++, study Linux, share and contribute to the spread of the philosophy of Open Source software.
 
-- My homepage:     https://zhirov.website
+- My homepage:     https://zhirov.kz/
 - My personal git: https://git.zhirov.website/alexander
 
 <!--
