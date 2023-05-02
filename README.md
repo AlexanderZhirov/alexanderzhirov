@@ -3,7 +3,6 @@
 I'm Alexander Zhirov from Russia! I am engaged in development in C/C++ and D, study Linux, share and contribute to the spread of the philosophy of Open Source software.
 
 - My homepage:     https://zhirov.kz/
-- My personal git: https://git.zhirov.kz/alexander
 
 <!--
 **AlexanderZhirov/alexanderzhirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
